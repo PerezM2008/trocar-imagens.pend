@@ -5,7 +5,8 @@ function carregarImagens (){
 
         {
             nome: 'cachorro',
-            url: './img/Cane-Corso.jpg'
+            url: './img/Cane-Corso.jpg',
+            descricao: 'Autoridade'
         },
         {
             nome: 'caneta',
